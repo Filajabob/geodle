@@ -1,6 +1,7 @@
 {
   "name": "game",
   "version": "0.1.0",
+  "homepage": "https://filajabob.github.io/geodle",
   "private": true,
   "scripts": {
     "build": "react-scripts build",
